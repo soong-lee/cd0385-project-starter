@@ -32,11 +32,11 @@ I would explore more hyperparameters of the LGBM and possibly longer training ti
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
-![model_train_score.png](img/model_train_score.png)
+![model_train_score.png](model_train_score.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
-![model_test_score.png](img/model_test_score.png)
+![model_test_score.png](model_test_score.png)
 
 ## Summary
 AutoGluon is a powerful tool to try out many algorithms with bagging and ensembles in such a short time, which enables us to select a few candidate algorithms to improve further. This is a much better way than to theoretically select algorithms. The additional features and hyperparameter tuning definitely improved the performance.
